@@ -1,2 +1,2 @@
 # Desafio_cienciadedados_LightHouse
-Desafio técnico de ciência de dados do programa Lighthouse da Indicium
+Neste projeto, para a parte de análise exploratória foram instaladas as seguintes bibliotecas do Python: pandas (para ler a base de dados), numpy (para criar um dataframe em cima da base de dados existente), mathplotlib.pyplot, seaborn e plotly.express (para criar gráficos). Para a parte de machine learning, foi instalada a biblioteca sklearn e importadas suas funçoes: LinearRegression (para trabalhar com regressão linear), mean_squared_error, mean_absolute_error e r2_score (as 3 para trabalhar com métricas). Foi usado também o módulo sklearn.tree e a classe DecisionTreeRegressor, para trabalhar com o modelo de árvore de decisão.
